@@ -1,0 +1,695 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 55000,
+    "stock": 20
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 25000,
+    "stock": 35
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "category": "Electronics",
+    "price": 1500,
+    "stock": 50
+  },
+  {
+    "id": 4,
+    "name": "Keyboard",
+    "category": "Electronics",
+    "price": 1200,
+    "stock": 40
+  },
+  {
+    "id": 5,
+    "name": "Mouse",
+    "category": "Electronics",
+    "price": 800,
+    "stock": 60
+  },
+  {
+    "id": 6,
+    "name": "Monitor",
+    "category": "Electronics",
+    "price": 15000,
+    "stock": 15
+  },
+  {
+    "id": 7,
+    "name": "USB Cable",
+    "category": "Electronics",
+    "price": 300,
+    "stock": 100
+  },
+  {
+    "id": 8,
+    "name": "Power Bank",
+    "category": "Electronics",
+    "price": 1800,
+    "stock": 45
+  },
+  {
+    "id": 9,
+    "name": "Webcam",
+    "category": "Electronics",
+    "price": 2500,
+    "stock": 25
+  },
+  {
+    "id": 11,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 599,
+    "stock": 80
+  },
+  {
+    "id": 12,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 1499,
+    "stock": 50
+  },
+  {
+    "id": 13,
+    "name": "Hoodie",
+    "category": "Clothing",
+    "price": 1299,
+    "stock": 45
+  },
+  {
+    "id": 14,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 2499,
+    "stock": 30
+  },
+  {
+    "id": 15,
+    "name": "Shirt",
+    "category": "Clothing",
+    "price": 999,
+    "stock": 60
+  },
+  {
+    "id": 16,
+    "name": "Shorts",
+    "category": "Clothing",
+    "price": 699,
+    "stock": 70
+  },
+  {
+    "id": 17,
+    "name": "Sweater",
+    "category": "Clothing",
+    "price": 1599,
+    "stock": 35
+  },
+  {
+    "id": 18,
+    "name": "Cap",
+    "category": "Clothing",
+    "price": 399,
+    "stock": 90
+  },
+  {
+    "id": 19,
+    "name": "Socks",
+    "category": "Clothing",
+    "price": 199,
+    "stock": 120
+  },
+  {
+    "id": 20,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 2999,
+    "stock": 40
+  },
+  {
+    "id": 21,
+    "name": "Atomic Habits",
+    "category": "Books",
+    "price": 499,
+    "stock": 30
+  },
+  {
+    "id": 22,
+    "name": "The Alchemist",
+    "category": "Books",
+    "price": 299,
+    "stock": 50
+  },
+  {
+    "id": 23,
+    "name": "Clean Code",
+    "category": "Books",
+    "price": 799,
+    "stock": 20
+  },
+  {
+    "id": 24,
+    "name": "Rich Dad Poor Dad",
+    "category": "Books",
+    "price": 399,
+    "stock": 40
+  },
+  {
+    "id": 25,
+    "name": "Harry Potter",
+    "category": "Books",
+    "price": 599,
+    "stock": 35
+  },
+  {
+    "id": 26,
+    "name": "The Psychology of Money",
+    "category": "Books",
+    "price": 450,
+    "stock": 45
+  },
+  {
+    "id": 27,
+    "name": "Deep Work",
+    "category": "Books",
+    "price": 499,
+    "stock": 30
+  },
+  {
+    "id": 28,
+    "name": "Ikigai",
+    "category": "Books",
+    "price": 350,
+    "stock": 55
+  },
+  {
+    "id": 29,
+    "name": "Think and Grow Rich",
+    "category": "Books",
+    "price": 299,
+    "stock": 60
+  },
+  {
+    "id": 30,
+    "name": "The Hobbit",
+    "category": "Books",
+    "price": 599,
+    "stock": 25
+  },
+  {
+    "id": 31,
+    "name": "Table Lamp",
+    "category": "Home",
+    "price": 999,
+    "stock": 25
+  },
+  {
+    "id": 32,
+    "name": "Chair",
+    "category": "Home",
+    "price": 3500,
+    "stock": 15
+  },
+  {
+    "id": 33,
+    "name": "Study Table",
+    "category": "Home",
+    "price": 5000,
+    "stock": 10
+  },
+  {
+    "id": 34,
+    "name": "Bedsheet",
+    "category": "Home",
+    "price": 899,
+    "stock": 40
+  },
+  {
+    "id": 35,
+    "name": "Pillow",
+    "category": "Home",
+    "price": 499,
+    "stock": 60
+  },
+  {
+    "id": 36,
+    "name": "Curtains",
+    "category": "Home",
+    "price": 1299,
+    "stock": 30
+  },
+  {
+    "id": 37,
+    "name": "Wall Clock",
+    "category": "Home",
+    "price": 699,
+    "stock": 35
+  },
+  {
+    "id": 38,
+    "name": "Carpet",
+    "category": "Home",
+    "price": 2500,
+    "stock": 20
+  },
+  {
+    "id": 39,
+    "name": "Mirror",
+    "category": "Home",
+    "price": 1200,
+    "stock": 25
+  },
+  {
+    "id": 40,
+    "name": "Flower Vase",
+    "category": "Home",
+    "price": 599,
+    "stock": 40
+  },
+  {
+    "id": 41,
+    "name": "Cricket Bat",
+    "category": "Sports",
+    "price": 2500,
+    "stock": 20
+  },
+  {
+    "id": 42,
+    "name": "Football",
+    "category": "Sports",
+    "price": 999,
+    "stock": 35
+  },
+  {
+    "id": 43,
+    "name": "Tennis Racket",
+    "category": "Sports",
+    "price": 3000,
+    "stock": 15
+  },
+  {
+    "id": 44,
+    "name": "Badminton Racket",
+    "category": "Sports",
+    "price": 1500,
+    "stock": 25
+  },
+  {
+    "id": 45,
+    "name": "Basketball",
+    "category": "Sports",
+    "price": 1200,
+    "stock": 30
+  },
+  {
+    "id": 46,
+    "name": "Yoga Mat",
+    "category": "Sports",
+    "price": 799,
+    "stock": 50
+  },
+  {
+    "id": 47,
+    "name": "Skipping Rope",
+    "category": "Sports",
+    "price": 299,
+    "stock": 60
+  },
+  {
+    "id": 48,
+    "name": "Dumbbells",
+    "category": "Sports",
+    "price": 1800,
+    "stock": 20
+  },
+  {
+    "id": 49,
+    "name": "Gym Gloves",
+    "category": "Sports",
+    "price": 499,
+    "stock": 40
+  },
+  {
+    "id": 50,
+    "name": "Sports Bag",
+    "category": "Sports",
+    "price": 1299,
+    "stock": 25
+  },
+  {
+    "id": 51,
+    "name": "Face Wash",
+    "category": "Beauty",
+    "price": 299,
+    "stock": 60
+  },
+  {
+    "id": 52,
+    "name": "Shampoo",
+    "category": "Beauty",
+    "price": 450,
+    "stock": 50
+  },
+  {
+    "id": 53,
+    "name": "Conditioner",
+    "category": "Beauty",
+    "price": 499,
+    "stock": 45
+  },
+  {
+    "id": 54,
+    "name": "Body Lotion",
+    "category": "Beauty",
+    "price": 350,
+    "stock": 55
+  },
+  {
+    "id": 55,
+    "name": "Perfume",
+    "category": "Beauty",
+    "price": 1499,
+    "stock": 30
+  },
+  {
+    "id": 56,
+    "name": "Lip Balm",
+    "category": "Beauty",
+    "price": 199,
+    "stock": 80
+  },
+  {
+    "id": 57,
+    "name": "Sunscreen",
+    "category": "Beauty",
+    "price": 599,
+    "stock": 50
+  },
+  {
+    "id": 58,
+    "name": "Hair Oil",
+    "category": "Beauty",
+    "price": 299,
+    "stock": 70
+  },
+  {
+    "id": 59,
+    "name": "Face Cream",
+    "category": "Beauty",
+    "price": 499,
+    "stock": 45
+  },
+  {
+    "id": 60,
+    "name": "Makeup Kit",
+    "category": "Beauty",
+    "price": 1999,
+    "stock": 20
+  },
+  {
+    "id": 61,
+    "name": "Rice",
+    "category": "Grocery",
+    "price": 600,
+    "stock": 100
+  },
+  {
+    "id": 62,
+    "name": "Wheat Flour",
+    "category": "Grocery",
+    "price": 450,
+    "stock": 90
+  },
+  {
+    "id": 63,
+    "name": "Sugar",
+    "category": "Grocery",
+    "price": 250,
+    "stock": 100
+  },
+  {
+    "id": 64,
+    "name": "Salt",
+    "category": "Grocery",
+    "price": 50,
+    "stock": 150
+  },
+  {
+    "id": 65,
+    "name": "Cooking Oil",
+    "category": "Grocery",
+    "price": 180,
+    "stock": 80
+  },
+  {
+    "id": 66,
+    "name": "Tea",
+    "category": "Grocery",
+    "price": 300,
+    "stock": 70
+  },
+  {
+    "id": 67,
+    "name": "Coffee",
+    "category": "Grocery",
+    "price": 450,
+    "stock": 60
+  },
+  {
+    "id": 68,
+    "name": "Biscuits",
+    "category": "Grocery",
+    "price": 50,
+    "stock": 120
+  },
+  {
+    "id": 69,
+    "name": "Chocolate",
+    "category": "Grocery",
+    "price": 100,
+    "stock": 90
+  },
+  {
+    "id": 70,
+    "name": "Corn Flakes",
+    "category": "Grocery",
+    "price": 350,
+    "stock": 50
+  },
+  {
+    "id": 71,
+    "name": "Toy Car",
+    "category": "Toys",
+    "price": 499,
+    "stock": 40
+  },
+  {
+    "id": 72,
+    "name": "Remote Control Car",
+    "category": "Toys",
+    "price": 1499,
+    "stock": 25
+  },
+  {
+    "id": 73,
+    "name": "Teddy Bear",
+    "category": "Toys",
+    "price": 799,
+    "stock": 35
+  },
+  {
+    "id": 74,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 299,
+    "stock": 50
+  },
+  {
+    "id": 75,
+    "name": "Chess Board",
+    "category": "Toys",
+    "price": 599,
+    "stock": 30
+  },
+  {
+    "id": 76,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 1999,
+    "stock": 20
+  },
+  {
+    "id": 77,
+    "name": "Rubik's Cube",
+    "category": "Toys",
+    "price": 250,
+    "stock": 70
+  },
+  {
+    "id": 78,
+    "name": "Remote Drone",
+    "category": "Toys",
+    "price": 2999,
+    "stock": 15
+  },
+  {
+    "id": 79,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 899,
+    "stock": 30
+  },
+  {
+    "id": 80,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 699,
+    "stock": 40
+  },
+  {
+    "id": 81,
+    "name": "Tablet",
+    "category": "Electronics",
+    "price": 18000,
+    "stock": 20
+  },
+  {
+    "id": 82,
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "price": 3500,
+    "stock": 35
+  },
+  {
+    "id": 83,
+    "name": "Earbuds",
+    "category": "Electronics",
+    "price": 1800,
+    "stock": 50
+  },
+  {
+    "id": 84,
+    "name": "Printer",
+    "category": "Electronics",
+    "price": 9000,
+    "stock": 15
+  },
+  {
+    "id": 85,
+    "name": "Router",
+    "category": "Electronics",
+    "price": 2500,
+    "stock": 30
+  },
+  {
+    "id": 86,
+    "name": "External Hard Drive",
+    "category": "Electronics",
+    "price": 5500,
+    "stock": 20
+  },
+  {
+    "id": 87,
+    "name": "SSD",
+    "category": "Electronics",
+    "price": 4500,
+    "stock": 25
+  },
+  {
+    "id": 88,
+    "name": "Microphone",
+    "category": "Electronics",
+    "price": 3000,
+    "stock": 20
+  },
+  {
+    "id": 89,
+    "name": "Projector",
+    "category": "Electronics",
+    "price": 12000,
+    "stock": 10
+  },
+  {
+    "id": 90,
+    "name": "Power Adapter",
+    "category": "Electronics",
+    "price": 999,
+    "stock": 45
+  },
+  {
+    "id": 91,
+    "name": "Backpack",
+    "category": "Clothing",
+    "price": 1299,
+    "stock": 50
+  },
+  {
+    "id": 92,
+    "name": "Wallet",
+    "category": "Clothing",
+    "price": 599,
+    "stock": 60
+  },
+  {
+    "id": 93,
+    "name": "Belt",
+    "category": "Clothing",
+    "price": 499,
+    "stock": 55
+  },
+  {
+    "id": 94,
+    "name": "Sunglasses",
+    "category": "Clothing",
+    "price": 999,
+    "stock": 40
+  },
+  {
+    "id": 95,
+    "name": "Raincoat",
+    "category": "Clothing",
+    "price": 1499,
+    "stock": 25
+  },
+  {
+    "id": 96,
+    "name": "Slippers",
+    "category": "Clothing",
+    "price": 399,
+    "stock": 70
+  },
+  {
+    "id": 97,
+    "name": "Watch",
+    "category": "Clothing",
+    "price": 1999,
+    "stock": 30
+  },
+  {
+    "id": 98,
+    "name": "Handbag",
+    "category": "Clothing",
+    "price": 2499,
+    "stock": 20
+  },
+  {
+    "id": 99,
+    "name": "Scarf",
+    "category": "Clothing",
+    "price": 499,
+    "stock": 45
+  },
+  {
+    "id": 100,
+    "name": "Gloves",
+    "category": "Clothing",
+    "price": 299,
+    "stock": 60
+  }
+]
